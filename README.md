@@ -40,6 +40,10 @@ The demo works on Linux systems but can be implemented on any platform, includin
 - **Cross-platform**: Can be adapted for Windows, macOS, and embedded systems
 - **Embedded systems**: Compatible with various embedded platforms
 
+## Project Background
+
+**PS**: This small project was created to demonstrate CNN capabilities on various platforms. The system represents an underwater communication solution for receiving and transmitting text messages, showcasing the practical application of neural networks in challenging acoustic environments.
+
 ---
 
 *Project developed as part of OPEN DEEP WATER*
